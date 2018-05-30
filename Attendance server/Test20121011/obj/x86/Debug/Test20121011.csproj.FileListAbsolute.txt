@@ -1,0 +1,12 @@
+D:\97.소스2\Test20121011\Test20121011\bin\Debug\Test20121011.exe
+D:\97.소스2\Test20121011\Test20121011\bin\Debug\Test20121011.pdb
+D:\97.소스2\Test20121011\Test20121011\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\97.소스2\Test20121011\Test20121011\obj\x86\Debug\Test20121011.exe
+D:\97.소스2\Test20121011\Test20121011\obj\x86\Debug\Test20121011.pdb
+C:\Users\생선스프\Downloads\Test201210111\Test20121011\bin\Debug\Test20121011.exe
+C:\Users\생선스프\Downloads\Test201210111\Test20121011\bin\Debug\Test20121011.pdb
+C:\Users\생선스프\Downloads\Test201210111\Test20121011\obj\x86\Debug\Test20121011.csprojAssemblyReference.cache
+C:\Users\생선스프\Downloads\Test201210111\Test20121011\obj\x86\Debug\Test20121011.csproj.CoreCompileInputs.cache
+C:\Users\생선스프\Downloads\Test201210111\Test20121011\obj\x86\Debug\Test20121011.exe
+C:\Users\생선스프\Downloads\Test201210111\Test20121011\obj\x86\Debug\Test20121011.pdb
+C:\Users\생선스프\Downloads\Test201210111\Test20121011\obj\x86\Debug\Test20121011.csproj.ResolveComReference.cache
